@@ -6,3 +6,11 @@ The paper regarding this project can be read at this link
 ```
 https://drive.google.com/file/d/1Nqhd5b6jHYBlAHjHkXlgCvsCAJGUf98R/view?usp=sharing`
 ```
+## Architecture
+
+<img src="Architecture/Screenshot-1.png" width="400"/>
+<img src="Architecture/Screenshot-2.png" width="400"/>
+
+## Deployed Contract
+
+<img src="Architecture/Screenshot-3.png" width="400"/>
